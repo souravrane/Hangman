@@ -1,0 +1,34 @@
+{
+	"words": [
+		{
+			"question": "Opposite of go",
+			"hint": "c_m_",
+			"answer":"come"
+		},
+		{
+			"question": "Another word for conversation",
+			"hint": "_a_k",
+			"answer":"talk"
+		},
+        {
+		   "question": "Leads avengers !",
+		   "hint": "_a_t_i_",
+		   "answer":"captain"
+	 	},
+	 	{
+	 		"question": "Currently on your screen",
+		   "hint": "_a__ma_",
+		   "answer":"hangman"
+	 	},
+	 	{
+	 		"question": "Behind you !",
+		   "hint": "____",
+		   "answer":"wall"
+	 	},
+	 	{
+	 		"question": "speedforce",
+		   "hint": "__as_",
+		   "answer":"flash"
+	 	}
+	]
+}
